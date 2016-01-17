@@ -21,3 +21,6 @@ File  | Explanation
 ## To Do
 * Start htop on cpu, mem with `htop -s PERCENT_MEM` or `htop -s PERCENT_CPU` 
 * Remove hard coded `/tmp/tmp.txt`
+
+## Preview
+![alt tag](http://i.imgur.com/yHqFVu9.gif)
